@@ -11,3 +11,5 @@ require("harryuiop.config.terminal")
 -- Keybinds for LSPs
 -- Tree actually focusing right
 -- Git intergration 
+-- Auto format
+--
