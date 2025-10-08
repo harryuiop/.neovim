@@ -109,6 +109,7 @@ Powered by `nvim-cmp` and `LuaSnip`.
 | Plugins |
 |---------|
 | Git Intergrations |
+| TMUX |
 
 ## 📁 Lockfile
 
